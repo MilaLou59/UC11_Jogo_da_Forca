@@ -1,0 +1,5 @@
+C:\Users\camila.crlourenco\source\repos\UC11 JOGO DA FORCA\UC11 JOGO DA FORCA\obj\Debug\UC11 JOGO DA FORCA.csproj.AssemblyReference.cache
+C:\Users\camila.crlourenco\source\repos\UC11 JOGO DA FORCA\UC11 JOGO DA FORCA\obj\Debug\UC11_JOGO_DA_FORCA.Form1.resources
+C:\Users\camila.crlourenco\source\repos\UC11 JOGO DA FORCA\UC11 JOGO DA FORCA\obj\Debug\UC11_JOGO_DA_FORCA.Properties.Resources.resources
+C:\Users\camila.crlourenco\source\repos\UC11 JOGO DA FORCA\UC11 JOGO DA FORCA\obj\Debug\UC11 JOGO DA FORCA.csproj.GenerateResource.cache
+C:\Users\camila.crlourenco\source\repos\UC11 JOGO DA FORCA\UC11 JOGO DA FORCA\obj\Debug\UC11 JOGO DA FORCA.csproj.CoreCompileInputs.cache
